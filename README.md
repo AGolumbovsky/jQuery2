@@ -27,7 +27,6 @@ Now that we've made our basic files, we want to get them all hooked together in 
 
 *Remember: your browser will read your index.html from top-to-bottom, left-to-right. This means if you put your jquery under your app.js file you will end up with an error.*
 
-
 #Step 2
 ###Time For jQuery
 
